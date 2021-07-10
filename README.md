@@ -15,3 +15,4 @@
 14. Train Model
 15. เปลี่ยน Input Mode จาก Webcam เป็น Files ![image](https://user-images.githubusercontent.com/57552210/125149760-05315e00-e165-11eb-95e3-74aba922a4ce.png)
 16. เลือกมา 1 รูป จากที่อื่น เพื่อดูผลของ AI
+17. หาผลลัพธ์ที่ตรงๆ แคปส่ง เช่น ![Uploading image.png…]()
