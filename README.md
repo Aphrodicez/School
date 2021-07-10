@@ -14,3 +14,4 @@
 13. จะได้หน้าประมาณนี้ ![image](https://user-images.githubusercontent.com/57552210/125149564-e383a700-e163-11eb-99af-41602e71e741.png)
 14. Train Model
 15. เปลี่ยน Input Mode จาก Webcam เป็น Files ![image](https://user-images.githubusercontent.com/57552210/125149760-05315e00-e165-11eb-95e3-74aba922a4ce.png)
+16. เลือกมา 1 รูป จากที่อื่น เพื่อดูผลของ AI
