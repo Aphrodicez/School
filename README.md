@@ -1,3 +1,4 @@
 # School
 1. เข้าเว็บ [Teachable Machine](https://teachablemachine.withgoogle.com/)
-2. 
+2. Get Started
+3. Image Project ก็ได้ ง่ายดี
