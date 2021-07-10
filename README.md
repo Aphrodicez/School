@@ -11,4 +11,4 @@
 10. กลับเข้า Teachable Machine
 11. เปลี่ยนชื่อ Class 1 แล้ว Upload แค่ประเภท Class 1
 12. เปลี่ยนชื่อ Class 2 แล้ว Upload แค่ประเภท Class 2
-13. จะได้หน้าประมาณนี้ ![image](https://user-images.githubusercontent.com/57552210/125149564-e383a700-e163-11eb-99af-41602e71e741.png)
+13. จะได้หน้าประมาณนี้ <br> ![image](https://user-images.githubusercontent.com/57552210/125149564-e383a700-e163-11eb-99af-41602e71e741.png)
